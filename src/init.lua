@@ -1,4 +1,5 @@
 --!strict
+--!native
 -- Service
 local RunService = game:GetService("RunService")
 local TextService = game:GetService("TextService")
